@@ -8,3 +8,5 @@ def func(x):
 res = func(4)
 
 print(res)
+
+print('Bye')
